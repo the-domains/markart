@@ -1,0 +1,14 @@
+layout_spectrum: 0.9132489403709769
+typography_spectrum: 0.7681270351167768
+color:
+  brandStrength: 0.3138889577239752
+  lightness: 0.6218850112054497
+  saturation: 0.4375910565722734
+  rhythmicContrast: 0.6716671932954341
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Markart
