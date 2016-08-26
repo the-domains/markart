@@ -1,4 +1,3 @@
-layout_spectrum: 0.9132489403709769
 typography_spectrum: 0.7681270351167768
 color:
   brandStrength: 0.3138889577239752
@@ -11,4 +10,6 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
-name: Markart
+layout_spectrum: 0.9132489403709769
+name: markart
+title: art by mark
